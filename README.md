@@ -15,6 +15,7 @@ chat app to allow you to chat with every user in the app.
 * then add new ios app with bundle id "co.appbrewery.Flash-Chat-iOS13"
 * download the "GoogleService-Info.plist" file
 * allow authentication from the firebase project you just created with native option "email/password" without send an email option
+* enable firestore in your firebase project
 * copy the "GoogleService-Info.plist" file into "Flash Chat iOS13" directory
 * open "Flash Chat iOS13.xcworkspace" in xcode
 * run the app on your physical device or your emulator
@@ -27,3 +28,4 @@ chat app to allow you to chat with every user in the app.
 * add stories
 
 ## example:
+<img width=200 src="https://user-images.githubusercontent.com/55524560/225640186-b4e182fd-775a-46bb-a3b8-14bec3b09b7f.png">
